@@ -4,5 +4,7 @@ public class Main01 {
         int x = 10;
         int p = 20;
         int s = 30;
+        int res = n+x+p+s;
+        System.out.println(res);
     }
 }
