@@ -3,5 +3,6 @@ public class Main01 {
         int n = 0;
         int x = 10;
         int p = 20;
+        int s = 30;
     }
 }
