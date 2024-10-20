@@ -3,7 +3,7 @@ public class Main01 {
         int n = 0;
         int x = 10;
         int p = 20;
-        int s = 40;
+        int s = 40 ;
         int res = n+x+p+s;
         System.out.println(res);
     }
